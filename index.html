@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="container">
+        <button onclick="openpopup()"> SUBMIT</button>
+        <div class="popup" id="popup">
+            <img src="https://e1.pxfuel.com/desktop-wallpaper/576/798/desktop-wallpaper-check-mark-vector-icon-checkmark-right-symbol-tick-sign-ok-button-correct-circle-icon-stock-vector.jpg" alt="">
+        <h2>Thank You!</h2> 
+        <p>Your details has been successfully submitted. Thanks!</p>
+        <button onclick="closepopup()">OK</button>
+        </div>
+      
+    </div>
+    <script>
+let popup = document.getElementById("popup");
+function openpopup(){
+    popup.classList.add("open-popup")
+}
+function closepopup(){
+    popup.classList.remove("open-popup")
+}
+
+    </script>
+</body>
+</html>
