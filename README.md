@@ -5,4 +5,4 @@ All about Frontend Development!
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [A Cotton Weave](https://github.com/VrushaliUphade/HTML-CSS-Projects/tree/main/A%20Cotton%20Weave_9)                           | [Live Demo](https://github.com/vrushaliuphade.github.io/HTML-CSS-Projects/blob/main/A%20Cotton%20Weave_9/index.html)               |
+| 01  | [A Cotton Weave](https://github.com/VrushaliUphade/HTML-CSS-Projects/tree/main/A%20Cotton%20Weave_9)                           | [Live Demo](https://vrushaliuphade.github.io/HTML-CSS-Projects/A%20Cotton%20Weave_9/)               |
