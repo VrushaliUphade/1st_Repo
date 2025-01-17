@@ -1,6 +1,6 @@
 # FrontEnd-Projects
 All about Frontend Development!
-# Projects Using PURE [HTML] [CSS] [JS]
+# Projects Using PURE [HTML] [CSS] 
 
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
